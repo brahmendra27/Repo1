@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AE3F-F8E6
+
+ Directory of C:\Users\brahm\Desktop\Myproject
+
+01/06/2019  04:52 PM    <DIR>          .
+01/06/2019  04:52 PM    <DIR>          ..
+01/06/2019  04:52 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  844,599,308,288 bytes free
+1123
